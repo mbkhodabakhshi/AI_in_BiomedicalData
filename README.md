@@ -8,15 +8,13 @@ GitHub Profiles:
 - [Amir Hossein Fouladi](https://github.com/amir-Hofo/)  
 - [Alireza Javadi](https://github.com/alirezajavady)
 
-In this project, we focus on implementing and teaching machine learning and deep learning projects in the biomedical field.
-
+In this project, we focus on implementing and teaching machine learning and deep learning projects in the biomedical field. For each topic in artificial intelligence, we will also address a practical project utilizing diverse and distinct medical datasets, including medical signals and images.
+پ
 ## Table of Contents
 
-### 1. Lectures
-1.1 [Theoretical Concepts](#theoretical-concepts)  
-1.2 [Code Demonstrations](#code-demonstrations)  
+| Section                          | Description                                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Lectures                          | Includes files from the course lecture sessions.                                                             |
+| Basics of Python                  | Focuses on teaching Python for the essential skills needed in project development.                           |
+| Pandas, Matplotlib, Numpy & Scikit-learn | Covers the four main Python libraries in machine learning, along with a project on regression using tabular medical data. |
 
-### 2. Exercise Classes
-2.1 [Project Implementations](#project-implementations)  
-2.2 [Code Review and Debugging](#code-review-and-debugging)  
----
