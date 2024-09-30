@@ -9,7 +9,7 @@ GitHub Profiles:
 - [Alireza Javadi](https://github.com/alirezajavady)
 
 In this project, we focus on implementing and teaching machine learning and deep learning projects in the biomedical field. For each topic in artificial intelligence, we will also address a practical project utilizing diverse and distinct medical datasets, including medical signals and images.
-پ
+
 ## Table of Contents
 
 | Section                          | Description                                                                                                  |
