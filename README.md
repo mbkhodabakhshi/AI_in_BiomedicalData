@@ -15,6 +15,6 @@ In this project, we focus on implementing and teaching machine learning and deep
 | Section                          | Description                                                                                                  |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Lectures                          | Includes files from the course lecture sessions.                                                             |
-| Basics of Python                  | Focuses on teaching Python for the essential skills needed in project development.                           |
+| Python Basics                     | Focuses on teaching Python for the essential skills needed in project development.                           |
 | Pandas, Matplotlib, Numpy & Scikit-learn | Covers the four main Python libraries in machine learning, along with a project on regression using tabular medical data. |
 
