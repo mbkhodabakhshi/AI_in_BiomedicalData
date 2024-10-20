@@ -12,9 +12,9 @@ In this project, we focus on implementing and teaching machine learning and deep
 
 ## Table of Contents
 
-| Section                          | Description                                                                                                  |
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Lectures                          | Includes files from the course lecture sessions.                                                             |
-| Python Basics                     | Focuses on teaching Python for the essential skills needed in project development.                           |
-| Pandas, Matplotlib, Numpy & Scikit-learn | Covers the four main Python libraries in machine learning, along with a project on regression using tabular medical data. |
+| Section                           | Link | Description                                                                                                      |
+|-----------------------------------|------|------------------------------------------------------------------------------------------------------------------|
+| Lectures                          | [Link]() | Includes files from the course lecture sessions.                                                             |
+| Python Basics                     | [Link]() | Focuses on teaching Python for the essential skills needed in project development.                           |
+| Pandas, Matplotlib, Numpy & Scikit-learn | [Link](https://github.com/mbkhodabakhshi/AI_in_BiomedicalData/tree/main/2_Pandas%2C%20Matplotlib%2C%20Numpy%20%26%20Scikit-learn) | Covers the four main Python libraries in machine learning, along with a project on regression using tabular medical data. |
 
