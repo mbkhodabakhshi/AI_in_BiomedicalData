@@ -1,5 +1,5 @@
 # AI_in_BiomedicalData
 Includes files from the course lecture sessions.
-| Section                           | Link | Description                                                                                                      |
+| Section                           | Link |                                                                                                       |
 |-----------------------------------|------|------------------------------------------------------------------------------------------------------------------|
-| Lectures                          | ----- | Includes files from the course lecture sessions.         
+| Lectures                          | -----|      
